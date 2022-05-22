@@ -1,0 +1,17 @@
+div{background-color:white}
+p{
+    color: blueviolet;
+}
+div>div>div>h2{color: aqua;}
+p+p{
+    background-color: red;
+}
+h2+p{
+    background-color: darkgoldenrod;
+}
+input[type=text]{background-color: brown;}
+
+button{
+    background-color: blueviolet;
+}
+input[type=submit]{background-color: blue;}
